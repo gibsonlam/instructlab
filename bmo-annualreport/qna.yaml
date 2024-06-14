@@ -1,1 +1,51 @@
+---
+task_description: Teach the model about the Bank of Montreal (BMO)
+created_by: gibsonlam
+domain: financial institutions
+version: 2
+seed_examples:
+ — question: How many customers does BMO have globally at the end of 2023?
+   answer: |
+   At the end of 2023, BMO has 13 million customers.
+ — question: How much in total assets does BMO have at the end of 2023?
+   answer: |
+   At the end of 2023, BMO has $1.29 trillion in total assets.
+ — question: By assets, where does BMO rank at the end of 2023?
+   answer: |
+   At the end of 2023, BMO is the 8th largest by assets.
+ — question: What is BMO's earnings per share growth in 2023?
+   answer: |
+   BMO's earnings per share growth was -71.6%
+ — question: What is BMO's return on equity and return on tangble common equity in 2023?
+   answer: |
+   BMO's return on equity was 6% reported and 12.3% adjusted.
+ — question: What is BMO's net income in 2023?
+   answer: |
+   BMO's net income was $4.4 billion reported and $8.7 billion adjusted.
+ — question: What is BMO's total shareholder return in 2023?
+   answer: |
+   BMO's total shareholder return was 5.6%.
+ — question: What is BMO's efficiency ration and operating leverage in 2023?
+   answer: |
+   BMO’s reported gross efficiency ratio was 68.0% in 2023
+ — question: What is BMO's common equity tier 1 ratio in 2023?
+   answer: |
+   Our Common Equity Tier 1 (CET1) Ratio was 12.5% as at October 31, 2023
+ — question: What was BMO's net income in 2023?
+   answer: |
+   Reported net income was $4,377 million
+ — question: What was BMO's revenue in 2023?
+   answer: |
+   Reported revenue was $31,199 million, a decrease of $2,511 million or 7% from the prior year.
+ — question: What was BMO's net interest income in 2023?
+   answer: |
+   Reported net interest income was $18,681 million
+ — question: Did BMO have any acqusitions in 2023?
+   answer: |
+   BMO acquired Bank of the West in 2023
+document:
+  repo: https://github.com/gibsonlam/instructlab.git
+  commit: dc98fb703aba969ea6384540170db22e7b1a21a5
+  patterns:
+  - bmo-annualreport/bmo-annualreport.md
 
