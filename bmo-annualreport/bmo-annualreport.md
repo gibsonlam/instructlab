@@ -1,163 +1,65 @@
 BMO Financial Group
-2023 Annual Report to Shareholders
 
-Our Purpose is comprised of three core commitments:
-For a thriving economy 
-Providing access to capital and valuable financial advice – investing in businesses, supporting home ownership and strengthening the communities we serve, while driving innovation that makes banking easier
-For a sustainable future
-Being our clients’ lead partner in the transition to a net zero world, delivering on our commitments to sustainable financing and responsible investing 
-For an inclusive society 
-Committing to zero barriers to inclusion through investments, financial products and services, and partnerships that remove systemic barriers for under-represented customers, employees and communities – and drive inclusion and equitable growth for everyone
+BMO has 13 million customers globally.
+BMO has $1.29 trillion in total assets.
+BMO is the 8th largest bank in North America by assets.
 
-Our Strategy
-At BMO, we’re building a high-performing, digitally-enabled, future-ready bank with engaged employees and a winning culture. We are focused on helping our customers make real financial progress, and on financing our clients’ growth and innovation, while also investing in our workforce. Anchored by our Purpose, we are driven by our strategic priorities for growth, strengthened by our approach to sustainability and guided by our values as we build a foundation of trust with our stakeholders.
-
-Who We Are
-Established in 1817, BMO Financial Group is the eighth largest bank in North America by assets, with total assets of $1.29 trillion. We are a highly diversified financial institution providing a broad range of personal and commercial banking, wealth management, global markets and investment banking products and services. We serve 13 million customers across Canada and the United States, and in select markets globally, through three integrated operating groups.
-
-Personal and Commercial Banking
-Provides financial products and services to customers across North America. Personal and Business Banking helps customers make real financial progress through an extensive network of branches, contact centres, digital banking platforms and automated teller machines. Commercial Banking offers valuable industry expertise, local presence and a comprehensive range of commercial products and services.
- 
-BMO Wealth Management
-Serves a full range of clients, from individuals and families to business owners and institutions, offering a wide spectrum of wealth, asset management and insurance products and services aimed at helping clients make real financial progress through planning, growing, protecting and transitioning their wealth. Our asset management business is focused on making a positive impact and delivering innovative financial solutions and strategies for our clients. 
-
-BMO Capital Markets 
-Offers a comprehensive range of products and services to corporate, institutional and government clients. BMO Capital Markets has thousands of professionals around the world enabling the growth aspirations of our clients across the bank.
-
-BMO’s Strategic Footprint spans strong regional economies, with branches and commercial, wealth management and capital markets offices across Canada and the United States. Our physical presence is supplemented by digital platforms that enable us to seamlessly serve customers throughout both countries. Our significant presence in North America is complemented by BMO Capital Markets operations in select international markets, allowing us to provide all our customers with access to economies and markets around the world.
-
-13 million customers globally 
-$1.29 trillion in total assets
-8th largest bank in North America by assets
-1817 serving customers for 206 years and counting
-
-Financial Performance
-Medium-term objectives 2023 financial performance Reported Adjusted 
-EPS growth of 7% to 10% (71.6)% (11.4)% 
-ROE of 15% or more 6.0% 12.3% 
-ROTCE of 18% or more 8.2% 15.8% 
-Net operating leverage of 2% or more (45.9)% (8.2)% 
-Capital ratios that exceed regulatory requirements 12.5% CET1 Ratio
-
-Digital Strategy and Leadership
-Our Digital First strategy is focused on delivering speed and scale to enable progress for our customers, unlock the power of our people, leverage data and analytics, harness the potential of emerging technologies – and drive leading loyalty, growth and efficiency.
-We’re proud to be consistently recognized for our leadership and achievements. It’s a testament to our employees, our innovative culture, and our ongoing commitment to creating excellent digital experiences for our customers, colleagues and communities.
-
-J.D. Power 2023 Canada Online Banking Satisfaction Study
+In 2023, BMO had the following recognitions
+1. J.D. Power 2023 Canada Online Banking Satisfaction Study
 BMO received the highest score in the J.D. Power 2023 Canada Online Banking Satisfaction Study. The study analyzes feedback from thousands of online banking customers across Canada, and awarded BMO top marks in four key categories: Information/content, navigation, speed and visual appeal.
 
-Best Workplaces for Innovators
+2. Best Workplaces for Innovators
 BMO was the only financial institution named among the top 30 companies on Fast Company’s fifth annual Best Workplaces for Innovators list, honouring organizations that demonstrate a commitment to encouraging innovation enterprise-wide.
 
-2023 BAI Global Innovation Award
+3. 2023 BAI Global Innovation Award
 BMO Digital has won a 2023 BAI Global Innovation Award for the BMO New to Canada pre-arrival digital account opening application. The BAI Global Innovation Awards recognize financial institutions that embrace digital innovation to transform the customer experience, drive business results and effect positive change. 
 
-Fintech Open Source Foundation (FINOS)
+4. Fintech Open Source Foundation (FINOS)
 BMO Capital Markets received the Breaking the Status Quo award in recognition of our significant progress on open source readiness, as well as the positive impact and contributions we’ve made to open source in financial services.
 
-#1 in customer satisfaction 
+5. Number 1 in customer satisfaction 
 BMO received the highest score in customer satisfaction among Canada’s “Big Five” banks in the J.D. Power 2023 Canada Retail Banking Satisfaction Study. The annual study analyzes direct feedback from thousands of customers across Canada and measures their satisfaction with their primary bank.
 
-Innovative platforms
-We’re meeting and engaging clients where they are. BMO was recognized for innovation at the 2023 Cannes Lions festival, winning Gold for BMO NXT LVL, a first-of-its-kind gaming platform on Twitch that educates and informs gamers about personal finances. We also won two Gold Lions in the Creative Commerce and Social & Influencer categories.
-
-A wider U.S. footprint 
-With the acquisition of Bank of the West, BMO has expanded our market presence in the U.S. West and Southwest – while reinforcing our third-place market share position for deposits across our Midwest footprint.
-
-US $16.5B committed to lending for U.S. small businesses with owners who are Native American, Black, Latinx or women.
-
-Top 5 commercial lender in North America
-
-$8.3B in loans, deposits and investments originated or administered by BMO for Canadian Indigenous communities and businesses, not far from our target of $9.5B by 2025. 
-
-Sustainable progress
-
+BMO's Sustainable progress
 $300B in capital to support clients pursuing sustainable outcomes.
-
-#1 Corporate Knights’ most sustainable bank in North America, for the fourth year in a row.
-
+Number 1 Corporate Knights’ most sustainable bank in North America, for the fourth year in a row.
 13 years BMO has been carbon neutral in our own operations since 2010.
 
-A global leader
-BMO was recognized as the world’s top-ranked financial institution for helping make progress in support of a just and sustainable economy by the World Benchmarking Alliance (WBA), which has developed transformative new benchmarks to measure companies’ impacts – and encourage them to do better. The WBA noted our leadership in governance and respect for planetary boundaries and human rights.
+As at November 1, 2023, Appointed to the Board of Directors effective August 30, 2023 are:
+   1. George A. Cope, C.M., Corporate director
+   2. Janice M. Babiak, CPA (US), CA (UK), CISM, CISA, Corporate director 
+   3. Sophie Brochu, C.M., Corporate director 
+   4. Craig W. Broderick, Corporate director 
+   5. Hazel Claxton, Corporate director 
+   6. Stephen Dent, Managing Director and Co-Founder, Birch Hill Equity Partners 
+   7. Christine A. Edwards, Corporate director 
+   8. Dr. Martin S. Eichenbaum, Charles Moskos, Professor of Economics, Northwestern University 
+   9. David Harquail, Chair of the Board, Franco-Nevada Corporation 
+   10. Linda S. Huber, Chief Financial Officer, FactSet Research Systems Inc. 
+   11. Eric R. La Flèche, President and Chief Executive Officer, Metro Inc. 
+   12. Lorraine Mitchelmore, Corporate director
+   13. Madhu Ranganathan, Executive Vice-President and Chief Financial Officer, OpenText Corporation
+   14. Darryl White, Chief Executive Officer, BMO Financial Group 
+BMO's Executive Committee
+   1. Darryl White, Chief Executive Officer
+   2. Piyush Agrawal, Chief Risk Officer
+   3. Darrel Hackett, U.S. Chief Executive Officer
+   4. Sharon Haward-Laird, General Counsel
+   5. Nadim Hirji, Group Head, BMO Commercial Bank, North America and Co-Head, Personal and Commercial Banking
+   6. Ernie (Erminia) Johannson, Group Head, North American Personal & Business Banking and Co-Head, Personal and Commercial Banking
+   7. Deland Kamanga, Group Head, BMO Wealth Management 
+   8. Mona Malone, Chief Human Resources Officer and Head, People, Culture and Brand
+   9. Alan Tannenbaum, Chief Executive Officer and Group Head, BMO Capital Markets
+   10. Steve Tennyson, Chief Technology and Operations Officer
+   11. Tayfun Tuzun, Chief Financial Office
 
-Protecting biodiversity 
-BMO was named to the United Nations Principles for Responsible Banking (PRB), Nature Target Setting Working Group, focused on developing guidance for biodiversity and nature-related target setting – the only Canadian bank among 34 UN PRB signatories from 24 countries.
-
-Banking on ethics
-BMO was named one of the World’s Most Ethical Companies for the sixth consecutive year by Ethisphere, a global leader in defining and advancing the standards of ethical business practices – one of only four banks worldwide to be included in 2023, and the only Canadian bank to receive this designation since the award’s inception in 2007.
-
-Equitable progress
-
-8 years on the Bloomberg Gender-Equality Index, for our commitment to gender equity and inclusion in the workplace and the community.
-90+% of BMO employees completed our Learn from Difference program, fostering a more inclusive workplace.
-$100M committed to Business Within Reach: BMO for Black Entrepreneurs program, helping Black-owned businesses in Canada start up, scale up and grow
-
-Supporting research
-BMO committed $5 million to the Centre for Addiction and Mental Health to support independent research and help build a new research centre – the Krembil Centre for Neuroinformatics in Toronto, a global hub collecting and integrating large-scale research data, using machine learning and mathematical models to potentially transform our understanding of brain disorders. 
-
-$40 billion+ for communities
-BMO EMpower 2.0 is our five-year plan to address key barriers for minority businesses, communities and families. We’ve committed more than $40 billion in funding across the United States, with over $16 billion targeted for California. The plan goes beyond financial support – these partnerships foster deep community engagement, creating meaningful change at the local level.
-
-An inclusive workplace
-BMO’s commitment to a diverse and inclusive workplace was recognized by several organizations in 2023. For example, we received a top score on the Disability Equality Index (DEI) Best Places to Work, the leading benchmark tool for disability inclusion in business. DEI is a joint initiative of Disability:IN and The American Association of People with Disabilities
-
-As at November 1, 2023, Appointed to the Board of Directors effective August 30, 2023 are
-   George A. Cope, C.M., Corporate director
-   Janice M. Babiak, CPA (US), CA (UK), CISM, CISA, Corporate director 
-   Sophie Brochu, C.M., Corporate director 
-   Craig W. Broderick, Corporate director 
-   Hazel Claxton, Corporate director 
-   Stephen Dent, Managing Director and Co-Founder, Birch Hill Equity Partners 
-   Christine A. Edwards, Corporate director 
-   Dr. Martin S. Eichenbaum, Charles Moskos, Professor of Economics, Northwestern University 
-   David Harquail, Chair of the Board, Franco-Nevada Corporation 
-   Linda S. Huber, Chief Financial Officer, FactSet Research Systems Inc. 
-   Eric R. La Flèche, President and Chief Executive Officer, Metro Inc. 
-   Lorraine Mitchelmore, Corporate director
-   Madhu Ranganathan, Executive Vice-President and Chief Financial Officer, OpenText Corporation
-   Darryl White, Chief Executive Officer, BMO Financial Group 
-BMO's Executive Committee?
-   Darryl White, Chief Executive Officer
-   Piyush Agrawal, Chief Risk Officer
-   Darrel Hackett, U.S. Chief Executive Officer
-   Sharon Haward-Laird, General Counsel
-   Nadim Hirji, Group Head, BMO Commercial Bank, North America and Co-Head, Personal and Commercial Banking
-   Ernie (Erminia) Johannson, Group Head, North American Personal & Business Banking and Co-Head, Personal and Commercial Banking
-   Deland Kamanga, Group Head, BMO Wealth Management 
-   Mona Malone, Chief Human Resources Officer and Head, People, Culture and Brand
-   Alan Tannenbaum, Chief Executive Officer and Group Head, BMO Capital Markets
-   Steve Tennyson, Chief Technology and Operations Officer
-   Tayfun Tuzun, Chief Financial Office
-
-About BMO
-Our Purpose: Boldly Grow the Good in business and life
-BMO has a deep sense of purpose – to be a champion of progress and a catalyst for change. We are leveraging our position as a leading financial services provider in order to create opportunities for our communities and our stakeholders to make positive, sustainable change – because we believe that success can and must be mutual. Our bold commitments for a thriving economy, a sustainable future and an inclusive society are reflected in our active, direct response to today’s most pressing challenges:
-• Thriving economy – Providing access to capital and valuable financial advice – investing in businesses, supporting home ownership and
-strengthening the communities we serve, while driving innovation that makes banking easier.
-• Sustainable future – Being our clients’ lead partner in the transition to a net zero world, delivering on our commitments to sustainable
-financing and responsible investing.
-• Inclusive society – Committing to zero barriers to inclusion through investments, financial products and services, and partnerships that remove systemic barriers for under-represented customers, employees and communities – and drive inclusion and equitable growth for everyone.
-
-Our Strategic Priorities 
-The strength and consistency of our performance are essential to realizing our Purpose. We aim to deliver top-tier total shareholder return and achieve our financial objectives by aligning our operations with, and executing on, our strategic priorities. Keeping the fundamentals of our strategy consistent, we renewed our priorities for fiscal 2024 to reflect our strong momentum in an environment of ongoing transformation:
-• World-class loyalty and growth, powered by One Client leadership, bringing the full suite of BMO’s products, services and advice to our clients
-• Winning culture driven by alignment, empowerment and recognition
-• Digital First for speed, scale and the elimination of complexity
-• Be our clients’ lead partner in the transition to a net zero world 
-• Superior management of risk, capital and funding performance
-Our group strategic priorities align with and support our enterprise-wide strategy, positioning us well to achieve competitive performance.
-The operating group strategies are outlined in the 2023 Operating Groups Performance Review.
-
-Our Approach to Sustainability 
-Our commitment to sustainability is embedded in our strategy and is fundamental to our Purpose. We identify the most significant effects of our business operations, products and services on our stakeholders and the communities in which we operate. We take steps to manage our business in a manner that is consistent with our sustainability objectives, while also considering the interests of our stakeholders. We apply a variety of environmental, social and governance (ESG) practices and benchmarks to capture opportunities and manage risks in key areas such as sustainable finance, climate change, human rights, and diversity, equity and inclusion.
-
-Our Values 
-Four core values shape our culture and underpin our choices and actions:
-• Integrity 
-• Diversity 
-• Responsibility 
-• Empathy 
+BMO's 2023 Financial Performance
+Medium-term objectives 2023 financial performance
+EPS growth of 7% to 10% (71.6)%
+ROE of 15% or more 6.0%
+ROTCE of 18% or more 8.2%
+Net operating leverage of 2% or more (45.9)%
+Capital ratios that exceed regulatory requirements 12.5% CET1 Ratio
 
 Earnings per Share Growth 
 All references to earnings per share (EPS) are to diluted EPS, unless otherwise indicated. 
@@ -175,8 +77,7 @@ Reported operating leverage was negative 38.5%. On a net revenue basis, reported
 Common Equity Tier 1 Ratio 
 Our Common Equity Tier 1 (CET1) Ratio was 12.5% as at October 31, 2023, compared with 16.7% as at October 31, 2022. Our CET1 Ratio was elevated at the end of fiscal 2022, primarily driven by fair value management actions related to the acquisition of Bank of the West. The CET1 Ratio decreased from the prior year, primarily as a result of the acquisition and integration of Bank of the West.
 
-Total Shareholder Return 
-For the year ended October 31 2023 
+Total Shareholder Return for the year ended October 31 2023 
 Closing market price per common share ($) 104.79 
 Dividends paid ($ per share) 5.72 
 Dividend yield (%) 5.5 
@@ -188,26 +89,7 @@ The average annual total shareholder return (TSR) is a key measure of shareholde
 The table above summarizes dividends paid on BMO’s common shares over the past five years and the movements in our share price. An investment of $1,000 in BMO common shares made at the beginning of fiscal 2019 would have been worth $1,315 as at October 31, 2023, assuming reinvestment of dividends, for a total return of 31.5%.
 Dividends declared per common share in fiscal 2023 totalled $5.80, an increase of $0.36 from $5.44 in the prior year. Dividends paid over a five-year period have increased at an average annual compound rate of approximately 9%.
 
-Supporting a Sustainable and Inclusive Future
-In support of our customers, communities and employees, in 2023 we:
-• Launched BMO EMpowerTM 2.0, pledging more than US$40 billion to support organizations in communities across the United States focused on advancing home ownership, growing small businesses, strengthening communities, and creating a more equitable society.
-• Exceeded BMO’s annual Employee Giving Campaign target with our employees contributing more than $31 million to the United Way and thousands of other community organizations across North America, while also setting a new record for pledges.
-• Announced the 2022 recipients of $150,000 in grants awarded to twelve Canadian women entrepreneurs as part of the BMO Celebrating Women Grant Program for women-owned businesses across Canada, in collaboration with Deloitte. The program is in its third year and has supported 56 women-owned businesses to date in Canada, with grants totalling $530,000.
-• Were named to the United Nations Principles for Responsible Banking, Nature Target Setting Working Group, focused on developing guidance for setting biodiversity and nature targets – the only Canadian bank among 34 signatories from 24 countries.
-• Invested $15 million in the Feel Out Loud campaign, sponsored by Kids Help Phone to expand access to clinical care and services in Canada through its e-mental health platform for youth. As a founding partner of Kids Help Phone, and with the help of our employees, we have raised more than $40 million to support this campaign to date.
-• Continued to drive progress for mental health treatment with a $5 million donation to the Centre for Addiction and Mental Health (CAMH) to support independent research at its Krembil Centre for Neuroinformatics and help build a research centre. We also donated $2 million to the Royal Ottawa Health Care Group (The Royal) to support the newly-established BMO Innovative Clinic for Depression, providing more treatment options for people living with depression.
-• Released Wîcihitowin, our third annual Indigenous Partnerships and Progress Report, highlighting our focus on advancing education, employment and economic empowerment in First Nations, Inuit and Métis communities. In addition, we announced six new members of our Indigenous Advisory Council (IAC), which now includes leaders from across Canada. BMO’s leadership continues to be recognized in a significant number of rankings, including:
-• Ranked among the most sustainable companies on the Dow Jones Sustainability Indices (DJSI). In addition, BMO ranked in the 95th percentile among banks globally and earned the highest possible score in the areas of Environmental Reporting, Social Reporting and Financial Inclusion.
-• Named one of Corporate Knights’ 2023 Global 100 Most Sustainable Corporations in the World and, for the fourth consecutive year, ranked as North America’s most sustainable bank. We ranked eighth in the world and in the top 15% of banks globally for Sustainable Revenue and received high marks for diversity on our Board of Directors and the representation of diversity in our senior leadership.
-• Included in Corporate Knights’ list of Canada’s Best 50 Corporate Citizens, with top-quartile scores in board gender diversity and the representation of visible minorities in our executive leadership – the only Canadian bank named to this listing. We also received a top-quartile Sustainable Revenue score, demonstrating our ongoing commitment to sustainable financing and responsible investing.
-• Recognized by the World Benchmarking Alliance (WBA) as the world’s top-ranked financial institution for supporting progress toward a just and sustainable economy.
-• Included for the eighth consecutive year in the Bloomberg Gender-Equality Index (GEI), in recognition of BMO’s global leadership in gender equity and inclusion within the workplace and the community, and for publicly demonstrating our commitment to equality and the advancement of women.
-• Recognized by Ethisphere Institute as one of the World’s Most Ethical Companies for the sixth consecutive year, remaining the only Canadian bank to be honoured with this designation since its inception in 2007. The designation affirms our commitment to doing what is right and operating with transparency, good governance and integrity in support of a thriving economy, a sustainable future and an inclusive society.
-• Included for the third consecutive year in the 2023 Women Lead Here list published by the Globe and Mail in its Report on Business magazine to recognize Canadian businesses for excellence in gender diversity in executive roles. Our objective for gender equality in our senior leadership has been above 40% since 2016, and we continue to support advancing diversity, equity and inclusion across the bank.
-• Received a top score on the Disability Equality Index (DEI) for the eighth consecutive year. BMO was named one of the Best Places to Work for Disability Inclusion by Disability:IN and the American Association of People with Disabilities (AAPD), in recognition of our continued focus and progress on building an inclusive society for our employees and the communities we serve.
-
-Financial Highlights
-(Canadian $ in millions, except as noted) 2023
+BMO's Financial Highlights 2023 (Canadian $ in millions, except as noted)
 Summary Income Statement
 Net interest income 18,681 
 Non-interest revenue 12,518 
@@ -275,12 +157,11 @@ Foreign Exchange Rates ($)
 As at October 31, Canadian/U.S. dollar 1.3868
 Average Canadian/U.S. dollar 1.3492
 
-Recent Acquisitions
-On February 1, 2023, we completed our acquisition of Bank of the West, including its subsidiaries, from BNP Paribas. Bank of the West provides a broad range of banking products and services, primarily in the Western and Midwestern regions of the United States. The acquisition strengthens our position in North America with increased scale and greater access to growth opportunities in strategic new markets. We completed the conversion of Bank of the West customer accounts and systems to our respective BMO operating platforms in September 2023. The acquisition has been reflected in our results as a business combination, primarily in the U.S. P&C and BMO Wealth Management reporting segments.
-On closing, we recognized purchase accounting fair value marks on Bank of the West’s loans and deposits of $3.0 billion and discounts on securities of $3.5 billion on our balance sheet, in accordance with International Financial Reporting Standards (IFRS). As previously disclosed, to manage the exposure of our regulatory capital to the risk of changes in the fair value of the assets and liabilities of Bank of the West due to changes in interest rates between the announcement and closing of the acquisition, we entered into interest rate swaps that resulted in cumulative mark-to-market gains of $5.7 billion on closing. Any exposure to interest rate risk in relation to these interest rate swaps was largely offset by our purchase of a portfolio of matched-duration U.S. treasuries and other balance sheet instruments. On closing, the swaps were neutralized and replaced with fair value accounting hedges, which in effect crystallized the unrealized loss position on our balance sheet. Accretion of the fair value marks and the discount on securities will increase net interest income, and the amortization of the fair value hedge will decrease net interest income over the remaining term of these instruments, both of which will be recorded in Corporate Services.
+BMO's Recent Acquisitions
+On February 1, 2023, BMO completed their acquisition of Bank of the West, including its subsidiaries, from BNP Paribas. On closing, we recognized purchase accounting fair value marks on Bank of the West’s loans and deposits of $3.0 billion and discounts on securities of $3.5 billion on our balance sheet, in accordance with International Financial Reporting Standards (IFRS). As previously disclosed, to manage the exposure of our regulatory capital to the risk of changes in the fair value of the assets and liabilities of Bank of the West due to changes in interest rates between the announcement and closing of the acquisition, we entered into interest rate swaps that resulted in cumulative mark-to-market gains of $5.7 billion on closing. Any exposure to interest rate risk in relation to these interest rate swaps was largely offset by our purchase of a portfolio of matched-duration U.S. treasuries and other balance sheet instruments. On closing, the swaps were neutralized and replaced with fair value accounting hedges, which in effect crystallized the unrealized loss position on our balance sheet. Accretion of the fair value marks and the discount on securities will increase net interest income, and the amortization of the fair value hedge will decrease net interest income over the remaining term of these instruments, both of which will be recorded in Corporate Services.
 On June 1, 2023, we completed the acquisition of the AIR MILES Reward Program (AIR MILES) business of LoyaltyOne Co. The AIR MILES business operates as a wholly-owned subsidiary of BMO. The acquisition was accounted for as a business combination and the acquired business and corresponding goodwill are included in our Canadian P&C reporting segment
 
-2023 Financial Performance Review
+BMO's 2023 Financial Performance Review
 This section provides a review of BMO’s enterprise financial performance for 2023 that ocuses on the Consolidated Statement of Income in BMO’s audited annual consolidated financial statements. A review of the operating groups’ strategies and performance follows the enterprise review.
 We use a number of financial measures to assess our performance, as well as the performance of our operating segments, including amounts, measures and ratios that are presented on a non-GAAP basis. We believe that these non-GAAP amounts, measures and ratios, read together with our GAAP results, provide readers with a better understanding of how management assesses results.
 Non-GAAP amounts, measures and ratios do not have standardized meanings under GAAP. They are unlikely to be comparable to similar measures presented by other companies and should not be viewed in isolation from, or as a substitute for, GAAP results.
@@ -402,5 +283,3 @@ Insurance revenue, net of CCPB 559
 Reported non-interest revenue was $12,518 million, a decrease of $5,307 million from the prior year. Reported non-interest revenue, net of CCPB, was $10,579 million, a decrease of $7,929 million or 43% from the prior year, and adjusted non-interest revenue, net of CCPB, was $12,345 million, an increase of $1,481 million or 14%. The inclusion of Bank of the West contributed $461 million to non-interest revenue. The impact of the stronger U.S. dollar increased non-interest revenue by 1% on both a reported and an adjusted basis.
 Reported non-interest revenue, net of CCPB, decreased primarily due to the loss related to fair value management actions in the current year, compared with a gain in the prior year. Adjusted non-interest revenue, net of CCPB, increased due to the inclusion of Bank of the West and AIR MILES, higher trading and card-related revenue and the impact of the stronger U.S. dollar, partially offset by lower underwriting and advisory revenue and securities gains, other than trading. Trading-related revenue is discussed in the section that follows.
 Gross insurance revenue was $2,498 million, compared with a loss of $157 million in the prior year, primarily due to changes in the fair value of investments and higher annuity sales. Insurance revenue can experience variability arising from fluctuations in the fair value of insurance assets caused by movements in interest rates and equity markets. The investments that support policy benefit liabilities are predominantly fixed income and equity assets recorded at fair value, with changes in fair value recorded in insurance revenue in the Consolidated Statement of Income. The impact of these fair value changes was largely offset by changes in the fair value of policy benefit liabilities, which are reflected in the Insurance Claims, Commissions and Changes in Policy Benefits section.
-We believe analyzing revenue, net of CCPB, is useful given the extent to which insurance revenue can vary, and given that this variability is largely offset in CCPB.
-For further information on results presented on a net revenue basis in this Non-Interest Revenue section, refer to the Non-GAAP and Other Financial Measures section.
