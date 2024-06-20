@@ -1,0 +1,28 @@
+task_description: Teach the model about the Bank of Montreal (BMO)
+created_by: gibsonlam
+domain: financialinstitutions
+version: 2
+seed_examples:
+- question: What was BMO's net income in 2023?
+  answer: |
+    BMO's net income in 2023 was $4.377 billion.
+- question: What was BMO's net interest income in 2023?
+  answer: |
+    BMO's net interest income in 2023 was $18.681 billion.
+- question: What was BMO's efficiency ratio in 2023?
+  answer: |
+    BMO’s efficiency ratio was 68.0% in 2023
+- question: What was BMO's common equity tier 1 ratio in 2023?
+  answer: |
+    BMO's Common Equity Tier 1 (CET1) Ratio was 12.5%
+- question: What was BMO's revenue in 2023?
+  answer: |
+    Reported revenue was $31.199 billion.
+- question: What was BMO's non-interest revenue in 2023?
+  answer: |
+    BMO's non-interest revenue in 2023 was $12.518 billion
+document:
+  repo: https://github.com/gibsonlam/instructlab.git
+  commit: cb6b9ff31c0c688011d5e6c92a99923822b2c671
+  patterns:
+  - bmo-annualreport/bmo-annualreport.md
