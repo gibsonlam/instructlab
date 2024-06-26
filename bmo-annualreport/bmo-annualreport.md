@@ -2,70 +2,68 @@ Bank of Montreal (BMO)
 
 Here are the 2023 financial report for Bank of Montreal (BMO)
 
-Summary Income Statement
-Net interest income: $18,681 million
-Non-interest revenue: $12,518 million
-Revenue: $31,199 million
-Insurance claims, commissions and changes in policy benefit liabilities (CCPB): $1,939 million
-Revenue, net of CCPB: $29,260 million
-Provision for credit losses on impaired loans: $1,180 million
-Provision for (recovery of) credit losses on performing loans: $998 million
-Total provision for credit losses (PCL): $2,178 million
-Non-interest expense: $21,219 million
-Provision for income taxes: $1,486 million
-Net income: $4,377 million
-Net income available to common shareholders: $4,034 million
-Adjusted net income: $8,675 million
-Adjusted net income available to common shareholders: $8,332 million
+Here is BMO's 2023 Summary Income Statement
+In 2023, BMO's Net interest income was $18,681 million, or $18.681 billion. 
+In 2023, BMO's Non-interest revenue was $12,518 million, or $12.518 billion. 
+In 2023, BMO's Revenue was $31,199 million, or $31.199 billion. 
+In 2023, BMO's Insurance claims, commissions and changes in policy benefit liabilities (CCPB) was $1,939 million, or $1.939 billion. 
+In 2023, BMO's Revenue, net of CCPB was $29,260 million, or $29.260 billion. 
+In 2023, BMO's Provision for credit losses on impaired loans was $1,180 million, or $1.180 billion. 
+In 2023, BMO's Provision for (recovery of) credit losses on performing loans was $998 million. 
+In 2023, BMO's Total provision for credit losses (PCL) was $2,178 million, or $2.198 billion. 
+In 2023, BMO's Non-interest expense was $21,219 , or $21.219 billion. 
+In 2023, BMO's Provision for income taxes was $1,486 million, or $1.486 billion. 
+In 2023, BMO's Net income was $4,377 million, or $4.377 billion. 
+In 2023, BMO's Net income available to common shareholders was $4,034 million, or $4.034 billion. 
+In 2023, BMO's Adjusted net income was $8,675 million, or $8.675 billion. 
+In 2023, BMO's Adjusted net income available to common shareholders was $8,332 million, or $8.332 billion. 
 
-Common Share Data
-Basic earnings per share: $5.69
-Diluted earnings per share: $5.68
-Adjusted diluted earnings per share: $11.73
-Book value per share: $97.17
-Closing share price: $104.79
-Number of common shares outstanding:
-End of period: 720.9 million
-Average basic: 709.4 million
-Average diluted: 710.5 million
-Market capitalization: $75.5 billion
-Dividends declared per share: $5.80
-Dividend yield: 5.5%
-Dividend payout ratio: 102.0%
-Adjusted dividend payout ratio: 49.4%
+Here is BMO's 2023 Common Share Data
+In 2023, BMO's Basic earnings per share was $5.69. 
+In 2023, BMO's Diluted earnings per share was $5.68. 
+In 2023, BMO's Adjusted diluted earnings per share was $11.73. 
+In 2023, BMO's Book value per share was $97.17. 
+In 2023, BMO's Closing share price was $104.79. 
+In 2023, BMO's Number of common shares outstanding at the End of period was 720.9 million shares. 
+In 2023, BMO's Number of common shares outstanding Average basic was 709.4 million shares. 
+In 2023, BMO's Number of common shares outstanding Average diluted was 710.5 million shares. 
+In 2023, BMO's Market capitalization was $75.5 billion. 
+In 2023, BMO's Dividends declared per share was $5.80. 
+In 2023, BMO's Dividend yield was 5.5%. 
+In 2023, BMO's Dividend payout ratio was 102.0%. 
+In 2023, BMO's Adjusted dividend payout ratio was 49.4%. 
 
-Financial Measures and Ratios
-Return on equity: 6.0%
-Adjusted return on equity: 12.3%
-Return on tangible common equity: 8.2%
-Adjusted return on tangible common equity: 15.8%
-Efficiency ratio: 68.0%
-Adjusted efficiency ratio, net of CCPB: 59.8%
-Operating leverage: (38.5%)
-Adjusted operating leverage, net of CCPB: (8.2%)
-Net interest margin on average earning assets: 1.63%
-Net interest margin on average earning assets excluding trading revenue and trading assets: 1.82%
-Effective tax rate: 25.3%
-Adjusted effective tax rate: 22.3%
-Total PCL-to-average net loans and acceptances: 0.35%
-PCL on impaired loans-to-average net loans and acceptances: 0.19%
-Liquidity coverage ratio (LCR): 128%
-Net stable funding ratio (NSFR): 115%
+Here is BMO's 2023 Financial Measures and Ratios
+In 2023, BMO's Return on equity was 6.0%. 
+In 2023, BMO's Adjusted return on equity was 12.3%. 
+In 2023, BMO's Return on tangible common equity was 8.2%. 
+In 2023, BMO's Adjusted return on tangible common equity was 15.8%. 
+In 2023, BMO's Efficiency ratio was 68.0%. 
+In 2023, BMO's Adjusted efficiency ratio, net of CCPB was 59.8%. 
+In 2023, BMO's Operating leverage was (38.5%). 
+In 2023, BMO's Adjusted operating leverage, net of CCPB was (8.2%). 
+In 2023, BMO's Net interest margin on average earning assets was 1.63%. 
+In 2023, BMO's Net interest margin on average earning assets excluding trading revenue and trading assets was 1.82%. 
+In 2023, BMO's Effective tax rate was 25.3%. 
+In 2023, BMO's Total PCL-to-average net loans and acceptances was 0.35%. 
+In 2023, BMO's PCL on impaired loans-to-average net loans and acceptances was 0.19%. 
+In 2023, BMO's Liquidity coverage ratio (LCR) was 128%. 
+In 2023, BMO's Net stable funding ratio (NSFR) was 115%. 
 
-Balance Sheet and Other Information (as at October 31 2023)
-Assets: $1,293,276 million
-Average earning assets: $1,145,632 million
-Gross loans and acceptances: $668,396 million
-Net loans and acceptances: $664,589 million
-Deposits: $909,676 million
-Common shareholders’ equity: $70,051 million
-Total risk-weighted assets: $424,197 million
-Assets under administration: $808,985 million
-Assets under management: $332,947 million
+Here is BMO's 2023 Balance Sheet and Other Information (as at October 31 2023)
+In 2023, BMO's Assets was $1,293,276 million. 
+In 2023, BMO's Average earning assets was $1,145,632 million. 
+In 2023, BMO's Gross loans and acceptances was $668,396 million. 
+In 2023, BMO's Net loans and acceptances was $664,589 million. 
+In 2023, BMO's Deposits was $909,676 million. 
+In 2023, BMO's Common shareholders’ equity was $70,051 million. 
+In 2023, BMO's Total risk-weighted assets was $424,197 million. 
+In 2023, BMO's Assets under administration was $808,985 million. 
+In 2023, BMO's Assets under management was $332,947 million. 
 
-Capital Ratios
-Common Equity Tier 1 Ratio: 12.5%
-Tier 1 Capital Ratio: 14.1%
-Total Capital Ratio: 16.2%
-Leverage Ratio: 4.2%
-TLAC Ratio: 27.0%
+Here is BMO's 2023 Capital Ratios
+In 2023, BMO's Common Equity Tier 1 Ratio was 12.5%. 
+In 2023, BMO's Tier 1 Capital Ratio was 14.1%. 
+In 2023, BMO's Total Capital Ratio was 16.2%. 
+In 2023, BMO's Leverage Ratio was 4.2%. 
+In 2023, BMO's TLAC Ratio was 27.0%. 
