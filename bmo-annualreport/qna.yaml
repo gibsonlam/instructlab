@@ -23,6 +23,6 @@ seed_examples:
     BMO's non-interest revenue in 2023 was $12.518 billion
 document:
   repo: https://github.com/gibsonlam/instructlab.git
-  commit: cb6b9ff31c0c688011d5e6c92a99923822b2c671
+  commit: 19bd719fb16194001797e3fc4c66f141d55685d5
   patterns:
   - bmo-annualreport/bmo-annualreport.md
